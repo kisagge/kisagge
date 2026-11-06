@@ -2,6 +2,17 @@
 
 Frontend Developer @ BubbleTap
 
+보기 좋은 화면만큼, 누구나 쓸 수 있고 고친 뒤에도 믿을 수 있는 화면을 중요하게 생각하는 프론트엔드 개발자입니다.
+그래서 접근성 검사와 Vitest·Playwright 테스트를 개발 과정에 함께 넣습니다.
+개인 프로젝트에서는 화면을 넘어 데이터 모델과 배포, 모바일 앱까지 직접 만들며 제품 전체를 다뤄 보고 있습니다.
+
+## Projects
+
+- **[PLAIN](https://plain-shop-byjang.vercel.app)** ([코드](https://github.com/kisagge/shopApp)): 한 코드로 만든 웹과 iOS·Android 앱, 한·영·일 3개 언어를 지원하는 쇼핑몰 포트폴리오
+- **[BY Playground](https://by-jang-blog.xyz)** ([코드](https://github.com/kisagge/blog-project)): 직접 배포해 운영하는 블로그, 실시간 댓글과 웹 푸시 지원
+
+## Tech Stack
+
 <table>
   <tbody>
     <tr>
@@ -56,3 +67,7 @@ Frontend Developer @ BubbleTap
     </tr>
   </tbody>
 </table>
+
+## Contact
+
+- 블로그: [by-jang-blog.xyz](https://by-jang-blog.xyz)
