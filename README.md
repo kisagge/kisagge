@@ -70,6 +70,11 @@
   </tbody>
 </table>
 
+## Education & Certification
+
+- **성균관대학교** · 컴퓨터공학과 졸업 (학사)
+- **정보처리기사**
+
 ## Contact
 
 - 블로그: [by-jang-blog.xyz](https://by-jang-blog.xyz)
