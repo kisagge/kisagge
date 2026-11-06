@@ -5,6 +5,8 @@
 
 ## Experience
 
+총 경력 4년 5개월
+
 - **주식회사 버블탭** · 프론트엔드 개발자 (2023.11 ~ 2026.9)
 - **주식회사 왈라** · 프론트엔드 개발자 (2022.3 ~ 2023.8)
 
@@ -78,4 +80,5 @@
 
 ## Contact
 
+- 이메일: [kisagge@naver.com](mailto:kisagge@naver.com)
 - 블로그: [by-jang-blog.xyz](https://by-jang-blog.xyz)
